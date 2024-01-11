@@ -90,7 +90,7 @@ function LandingPage() {
                   background={'#7928CA'}
                   onClick={() =>
                     openInNewTab(
-                      'https://metamask.app.link/dapp/wallet-otp.on.fleek.co'
+                      'https://metamask.app.link/dapp/web3otp.on.fleek.co'
                     )
                   }
                 >
