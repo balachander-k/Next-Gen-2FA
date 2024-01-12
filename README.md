@@ -11,5 +11,6 @@ Traditional 2FA relies on a single central database to store users sensitive inf
 
 ## Web3OTP's Upcoming features
 
-### native password manager system:
+### native password manager system
+### VC management 
 
