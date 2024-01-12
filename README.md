@@ -8,6 +8,8 @@ Web3OTP is a wallet-based authentication system that stores 2FA secrets with pub
 ### Storage and Data Availability Issues
 Traditional 2FA relies on a single central database to store users sensitive information. In case of a any database failure or system outage this can result in issues with data accessibility and potential security breaches.
 
+### Cloud Sync
+In traditional 2FA apps, if users sync their cloud connection, there is a chance that providers may sell their user data.
 
 ## Web3OTP's Upcoming features
 
