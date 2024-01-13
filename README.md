@@ -11,6 +11,9 @@ Traditional 2FA relies on a single central database to store users sensitive inf
 ### Cloud Sync
 In traditional 2FA apps, if users sync their cloud connection, there is a chance that providers may sell their user data.
 
+### Device Limitations 
+If a user loses their registered device, they can't receive any SMS, OTPs, or emails, which could lead to a loss of access to their account. But, with the help of Web3OTP users can access their accounts from any platform that supports wallet services
+
 ## Web3OTP's Upcoming features
 
 ### native password manager system
