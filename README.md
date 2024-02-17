@@ -19,6 +19,9 @@ Frontend: React with Chakra UI components <br/>
 Backend: Node js ,Socket.io,Polybase <br/>
 QR Libraries: react-qr-code & qr-scanner
 
+### Figma Design
+https://www.figma.com/file/LAQ49pzA5zRYrrRsq7lXMR/Next-Gen-Zk-Auth?type=design&node-id=1%3A7164&mode=design&t=dDOsOEtX4T8FVG7O-1
+
 ## Web3OTP's Upcoming features
 
 ### native password manager system
